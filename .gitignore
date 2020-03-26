@@ -1,3 +1,7 @@
 *.iml
 /.idea
-/target
+/target.classpath
+.project
+.settings
+.vscode
+.metals
